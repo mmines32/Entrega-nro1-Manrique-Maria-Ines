@@ -1,0 +1,117 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+  }
+  
+
+body{
+    background: linear-gradient(blue, pink);
+    margin: 0px;
+    
+}
+
+header{
+    background: linear-gradient(blue, pink);
+    text-align: center;
+    margin-top: 15px;
+  
+    border-left: #FFFFFF solid;
+    border-right: #c0e1eb solid;
+  
+}
+
+
+
+footer{
+    background-color: #41477e;
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 2px 0;
+}
+
+
+
+  h1{
+      text-align: center;
+      padding: 5px;
+      color: rgb(97, 96, 96);
+  }
+ 
+  .card{
+    margin: 5px;
+  }
+  
+  
+  .card__perfil{
+    display: grid;
+    grid-template-columns: 85% 15%;
+    width: 80%;
+    border: solid rgba(3, 133, 255, 0) 2px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 22px;
+    
+  }
+
+
+  .foto{
+    width: 25%;
+    border-radius: 70%;
+     
+
+  }
+ 
+  
+  img{
+      width: 45%;
+      border-radius: 10%;
+      
+     
+  }
+ 
+  .boton{
+      text-align: center;
+      margin-top: -30px;
+    
+  }
+  #boton1{
+      background: rgb(0, 110, 255);
+      padding: 8px 20px;
+      color: white;
+      text-decoration: none;
+      margin-top: 5%;
+  }
+
+  .link{
+        background: rgb(0, 110, 255);
+        padding: 8px;
+        color: white;
+        text-decoration: none;
+        margin-top: 5%;
+
+  }
+
+  hr{
+    width: 100%;
+    margin: 20px;
+    
+    background: rgb(221, 223, 223);
+    }
+
+ ul {
+    text-align: justify;
+ }
+
+ div p{
+    margin:5%;
+    padding: 3px;
+   
+    
+ }
+
+ 
+ 
